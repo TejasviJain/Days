@@ -19,5 +19,6 @@ public class MultipleOf2 {
         	System.out.println(n+" " + "x" +" " +i +" "+ "="+" " + result);
         }
 	}
+System.out.println("hfhghg");
 
 }
